@@ -84,7 +84,7 @@ Congrats on running your first Python application! 🎉
 
 ## Displaying Data with "print()"
 
-Now that we have a place to write some code, let's explore a few of Python's
+Now t a place that we haveo write some code, let's explore a few of Python's
 built-in options for displaying data in different ways.
 
 ### Standard print() Statements
